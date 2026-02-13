@@ -39,10 +39,3 @@ Always learning and improving my skills to deliver high-quality code. 🚀
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mahmoud.hussien.609675)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-hussien-41a008351)
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahmoud-Hussien&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
-![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg)
